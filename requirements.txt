@@ -1,0 +1,10 @@
+transformers
+faiss-cpu --no-cache
+accelerate
+torch
+numpy
+wget
+datasets
+rouge_score
+pandas
+tqdm
